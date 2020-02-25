@@ -1,0 +1,17 @@
+{
+  "name": "news-to-slack",
+  "version": "1.0.0",
+  "description": "NewsAPIで取得したニュースをSlackへ流す",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "dotenv": "^8.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "slackbots": "^1.2.0"
+  },
+  "license": "MIT"
+}
