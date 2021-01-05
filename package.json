@@ -10,7 +10,7 @@
     "dotenv": "^8.0.0"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "newsapi": "^2.4.0",
     "slack": "^11.0.2",
     "slackbots": "^1.2.0"
